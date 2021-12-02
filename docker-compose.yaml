@@ -18,7 +18,7 @@ services:
         restart: always
         environment:
             MYSQL_ROOT_PASSWORD: Admin123_
-	        MYSQL_DATABASE: db_coba
+	        MYSQL_DATABASE: dbcoba
             MYSQL_USER: admin
             MYSQL_PASSWORD: Admin123_
         ports:
